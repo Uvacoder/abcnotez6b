@@ -7,15 +7,14 @@
     "name": "Steffen Häfelinger",
     "email": ""
   },
-  "repository": "/codepedia",
+  "repository": "/codes-n-notes",
   "scripts": {
-    "start": "vuepress dev src",
-    "serve": "vuepress dev src",
+    "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.8.2"
   },
   "dependencies": {
     "vuepress-theme-thindark": "^1.0.1"
